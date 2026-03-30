@@ -1,0 +1,12 @@
+Pop|2000|Artist1|C
+Rock|1995|Artist2|A
+Jazz|2010|Artist3|E
+Pop|2005|Artist4|B
+Rock|2001|Artist5|D
+Classical|1980|Mozart|Symphony40
+Jazz|2008|Artist6|F
+Pop|2015|Artist7|G
+Rock|1998|Artist8|H
+Classical|1975|Beethoven|MoonlightSonata
+Pop|1999|Artist9|I
+Jazz|2012|Artist10|J
